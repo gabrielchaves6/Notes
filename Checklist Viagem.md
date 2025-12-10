@@ -29,7 +29,8 @@
 - tela portátil, 2 suportes e cabo usb-c de vídeo
 - s21+
 - 2 powerbanks
-- buds pro
+- fone de ouvido buds pro
+- fone de ouvido com fio de rh com usb-c
 - 2 suportes de arame laptop
 - garmin
 - 3 laptops
