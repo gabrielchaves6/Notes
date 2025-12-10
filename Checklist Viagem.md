@@ -76,19 +76,22 @@
   - vonau
   - magnésia bisurada
   - eno
+  - simeticona
 #### Produtos
 - desodorante
 - perfume
 - escova de dente
 - creme labial
+- olinho cabelo
 - alcool gel
 - prestobarba
-- máquina barba (e carregador)
+- máquina barba (+carregador +pentes)
 - lente de contato
   - solução de limpar
   - 2 caixinhas
   - +1 caixa de lente nova
-- 5 lentes 1dia
+- 5 lentes de contato de 1 dia
+- pinça
 
 ### Palas
 - tabaco
