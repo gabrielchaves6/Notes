@@ -44,7 +44,6 @@
   - dell 130w usb-c
   - mac 30w original
   - 2 samsung 25w
-  - 
 - cabos
   - mac original (usb-c)
   - samsung original (usb-c)
@@ -52,7 +51,6 @@
   - celular longo (usb-c)
   - celular curto (usb-c)
   - garmin
-  - 
 - mac
   - dongle
   - ssd
@@ -101,6 +99,7 @@
 - gudang
 - cuia
 - dicha
+- md pro leo e ju
 
 ## Arrumar antes de ir
 - pegar vv com o lucão
